@@ -1,6 +1,6 @@
 # Blog.Rafi
 
-![](images/4.edit.JPG)
+![](./images/4.edit.JPG)
 
 ## Index
 
