@@ -9,7 +9,7 @@ function Footer() {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://github.com/rafi-p/wlb-fe-test"
+        href="https://github.com/rafi-p/Blog.Rafi/tree/master/Blog_App"
       >
         Github
       </a>
